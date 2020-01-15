@@ -1,0 +1,11 @@
+.graph-area{
+    width:800px;height:450px;background: #00374E;margin:100px;overflow: auto;
+}
+.graph-menu{
+    position: absolute;right:20px;top:20px;width:300px;height:500px;border:1px solid #ddd;
+}
+.dragImg{
+    display: inline-block;
+    width:64px;
+    height:64px;
+}
