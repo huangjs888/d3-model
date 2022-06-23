@@ -13,6 +13,7 @@
 3. npm run build (打包)
 4. 本地打开：http://localhost:9090 即可
 
+! 注意：node版本：12.16.2 
 
 在线预览地址:[https://huangjs888.github.io/d3-model/](https://huangjs888.github.io/d3-model/ "预览")
 

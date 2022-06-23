@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hugh-888/d3-model.git"
+    "url": "git+https://github.com/huangjs888/d3-model.git"
   },
-  "author": "Hugh",
+  "author": "huangjs888",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Hugh-888/d3-model/issues"
+    "url": "https://github.com/huangjs888/d3-model/issues"
   },
-  "homepage": "https://github.com/Hugh-888/d3-model#readme",
+  "homepage": "https://github.com/huangjs888/d3-model#readme",
   "devDependencies": {
     "@babel/core": "^7.8.3",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
