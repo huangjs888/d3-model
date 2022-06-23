@@ -14,5 +14,5 @@
 4. 本地打开：http://localhost:9090 即可
 
 
-在线预览地址:[https://hugh-888.github.io/d3-model/](https://hugh-888.github.io/d3-model/ "预览")
+在线预览地址:[https://hughjs888.github.io/d3-model/](https://hughjs888.github.io/d3-model/ "预览")
 
