@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Build modeling by d3.",
   "main": "webpack.config.js",
-  "directories": {
-    "doc": "docs"
-  },
   "scripts": {
     "start": "webpack-dev-server --mode development --config webpack.config.js",
     "build": "webpack --mode production --config webpack.config.js",
