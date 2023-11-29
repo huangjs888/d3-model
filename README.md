@@ -8,7 +8,7 @@
 
 # 启动方式：
 进入项目根目录打开控制台运行以下命令
-1. npm install 或 yarn install (安装依赖)
+1. npm install
 2. npm start (启动)
 3. npm run build (打包)
 4. 本地打开：http://localhost:9090 即可
